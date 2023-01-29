@@ -16,7 +16,6 @@ df.replace('Third Owner','3',inplace=True)
 # deleting 'seller_type' column
 df=df.drop('seller_type',axis=1)
 
-## not in use [CAR DETAILS FROM CAR DEKHO.csv](https://github.com/abhishek-ganjigatti/car-data-sort-program/files/10529114/CAR.DETAILS.FROM.CAR.DEKHO.csv)
 [CAR DETAILS FROM CAR DEKHO.csv](https://github.com/abhishek-ganjigatti/car-data-sort-program/files/10529115/CAR.DETAILS.FROM.CAR.DEKHO.csv)
 
 #convert_dict={'owner':int}  #convert datatype of a column
